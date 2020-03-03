@@ -6,3 +6,5 @@ coding questions
 2.Comparing Strings based on sum of ascii value of strings
 
 3.Simulation of strtok function
+
+4.Constructor code
