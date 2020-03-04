@@ -81,7 +81,7 @@ void searchbyname(string str)
 	}
 }
 
-void sortbypercent()
+void sortbypercent()//to write functionallity
 {
 
 }
