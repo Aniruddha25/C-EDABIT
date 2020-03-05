@@ -10,7 +10,7 @@
 #include <string>
 #include  <cctype>
 using namespace std;
-class Passwordcheck{
+class Passwordcheck{ //to write functionality
 
 
 
