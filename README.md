@@ -19,3 +19,7 @@ type double to hold the total amount of money collected.
 6.Modular approach - amk12.cpp - Main file ,volume.h -HEADER FILE AND def.cpp - function defination
 
 7.Exception Handling
+
+8.Student records
+
+9.timeclass.cpp - getter,setter,accepttime,printtime
