@@ -9,12 +9,7 @@ coding questions
 
 4.Constructor code
 
-5.Tollbooth code -Imagine a tollbooth at a bridge. Cars passing by the booth are expected to pay a
-fifty-cent toll. Mostly they do, but sometimes a car goes by without paying. The
-tollbooth keeps track of the number of cars that have gone by and of the total
-amount of money collected.Model this tollbooth with a class called tollBooth.
-The two data items are a type unsigned int to hold the total number of cars, and a
-type double to hold the total amount of money collected.
+5.Tollbooth code -Tollbooth.cpp
 
 6.Modular approach - amk12.cpp - Main file ,volume.h -HEADER FILE AND def.cpp - function defination
 
@@ -28,6 +23,8 @@ type double to hold the total amount of money collected.
 
 11.Bank account : bankaccount.cpp,bank.h,bankdef.cpp
 
-12. Shape.cpp - shapes,shape area and shape perimeter
+12.Shape.cpp - shapes,shape area and shape perimeter
 
-13.shapapplication.cpp -Assignment 6 que.1
+13.shopapplication.cpp 
+
+14.Cricketapp.cpp  - use of Virtual Inheritance and virtual functions.
