@@ -28,3 +28,5 @@ coding questions
 13.shopapplication.cpp 
 
 14.Cricketapp.cpp  - use of Virtual Inheritance and virtual functions.
+
+15.LEFT ROTATION of array - leftrotation.cpp
