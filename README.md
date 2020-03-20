@@ -30,3 +30,5 @@ coding questions
 14.Cricketapp.cpp  - use of Virtual Inheritance and virtual functions.
 
 15.LEFT ROTATION of array - leftrotation.cpp
+
+16.Alternating character -alterchar.cpp
