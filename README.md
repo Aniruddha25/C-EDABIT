@@ -32,3 +32,5 @@ coding questions
 15.LEFT ROTATION of array - leftrotation.cpp
 
 16.Alternating character -alterchar.cpp
+
+17.Flipping bits.cpp
